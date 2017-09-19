@@ -1,0 +1,3 @@
+rootProject.name = 'appoitment'
+
+include ':app'
